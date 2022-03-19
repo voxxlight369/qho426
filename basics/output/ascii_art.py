@@ -1,0 +1,18 @@
+#Ascii Robot Task - Box Display
+#Display a box
+print("##########")
+print("#  #  #  #")
+print("# |____| #")
+print("##########")
+print("\t##")
+print("##########")
+print("#  ####  #")
+print("#  ####  #")
+print("#  ####  #")
+print("   ####   ")
+print("##########")
+print("##########")
+print("##      ##")
+print("##      ##")
+print("##      ##")
+print("####    ####")
